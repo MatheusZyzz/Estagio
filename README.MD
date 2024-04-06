@@ -41,3 +41,28 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 
 ## Estrutura do Projeto
 
+projeto/
+│
+├── index.html # Página HTML do formulário
+├── script.js # Script JavaScript para interação com a API
+└── app.js # Código da API em Node.js
+
+
+## Melhorias Futuras
+
+Este projeto é um exemplo básico para demonstrar o fluxo de envio de dados de um formulário para uma API e banco de dados. Algumas melhorias que podem ser implementadas incluem:
+
+- Adição de mais campos ao formulário.
+- Implementação de autenticação e autorização na API.
+- Adição de validações mais robustas nos campos do formulário.
+- Utilização de um ORM (Object-Relational Mapping) para facilitar a interação com o banco de dados.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Para sugestões, melhorias ou correções, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+
