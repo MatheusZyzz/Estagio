@@ -41,11 +41,11 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 
 ## Estrutura do Projeto
 
-projeto/
-│
-├── index.html # Página HTML do formulário ##
-├── script.js # Script JavaScript para interação com a API
-└── app.js # Código da API em Node.js
+> projeto/
+  │
+  ├── index.html # Página HTML do formulário 
+  ├── script.js # Script JavaScript para interação com a API
+  └── app.js # Código da API em Node.js
 
 
 ## Melhorias Futuras
