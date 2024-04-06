@@ -39,7 +39,8 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
    - Preencha o formulário com um nome e um email válido e clique em "Enviar".
    - Verifique se os dados foram corretamente inseridos na tabela `usuarios` do banco de dados.
 
-![C:\Users\mathe\OneDrive\Área de Trabalho\printFront.png]
+![Sem título](https://github.com/MatheusZyzz/Estagio/assets/95886821/c158a1bd-c9c6-4726-9895-60ed169a823f)
+
 ## Estrutura do Projeto
 ```
   projeto/
