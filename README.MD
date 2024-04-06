@@ -40,13 +40,13 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
    - Verifique se os dados foram corretamente inseridos na tabela `usuarios` do banco de dados.
 
 ## Estrutura do Projeto
-
-> projeto/
+```
+  projeto/
   │
   ├── index.html # Página HTML do formulário 
   ├── script.js # Script JavaScript para interação com a API
   └── app.js # Código da API em Node.js
-
+```
 
 ## Melhorias Futuras
 
