@@ -26,7 +26,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 
 1. **Configuração do Banco de Dados:**
    - Crie um banco de dados MySQL e uma tabela chamada `usuarios` com os campos `id` (INT, auto incrementado, primary key), `nome` (VARCHAR) e `email` (VARCHAR).
-   - Configure as credenciais do banco de dados (usuário, senha, nome do banco) no arquivo `app.js`.
+   - Configure as credenciais do banco de dados (usuário, senha, nome do banco) no arquivo `server.js`.
 
 2. **Configuração da API:**
    - Abra o terminal na pasta do projeto e execute o comando `npm install` para instalar as dependências.
