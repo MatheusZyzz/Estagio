@@ -30,7 +30,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 
 2. **Configuração da API:**
    - Abra o terminal na pasta do projeto e execute o comando `npm install` para instalar as dependências.
-   - Inicie a API utilizando o comando `node app.js`. O servidor irá rodar na porta 3000 por padrão.
+   - Inicie a API utilizando o comando `node server.js`. O servidor irá rodar na porta 3000 por padrão.
 
 3. **Execução da Aplicação Frontend:**
    - Abra o arquivo `index.html` em um navegador web.
