@@ -7,7 +7,7 @@ const app = express();
 const port = 3000;
 
 app.use(bodyParser.json());
-app.use(cors()); // Use o middleware cors
+app.use(cors()); 
 
 // Configuração do banco de dados MySQL
 const connection = mysql.createConnection({
